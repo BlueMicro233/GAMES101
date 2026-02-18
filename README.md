@@ -12,6 +12,6 @@ GAMES101 是最好的中文图形学课程，不接受反驳。
 - assignment2：**光栅化**和 **Z-Buffer** 算法。
 
 # 构建
-这些作业经过我的验证都能在最新的 **Windows 11(x86)** 和 **macOS 26 Tahoe(aarch64)** 上跑通。（它们之间只有 CMakeList.txt 的差异，这个可以询问 LLM 帮助解决）
+这些作业经过我的验证都能在最新的 **Windows 11 (x86)** 和 **macOS 26 Tahoe (aarch64)** 上跑通。（它们之间只有 CMakeList.txt 的差异，这个可以询问 LLM 帮助解决）
 
 持续施工中...
