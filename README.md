@@ -1,11 +1,11 @@
 # 大纲
 - hw1：**旋转矩阵**和**透视投影矩阵**。
 - hw2：**光栅化**和 **Z-Buffer** 算法。
-  - <img src="https://github.com/user-attachments/assets/66115f5f-2375-4429-a73d-253d35cda73d](https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/66115f5f-2375-4429-a73d-253d35cda73d](https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="80%" height="80%">
 
 
 - hw3：**图形流水线**、**着色器**、**纹理映射**、**局部光照模型（Blinn-Phong）等**
-  - <img src="https://github.com/user-attachments/assets/66115f5f-2375-4429-a73d-253d35cda73d](https://github.com/BlueMicro233/GAMES101/blob/main/hw3/build/output.png" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/66115f5f-2375-4429-a73d-253d35cda73d](https://github.com/BlueMicro233/GAMES101/blob/main/hw3/build/output.png" width="80%" height="80%">
 
 # 关于
 GAMES101 是最好的中文图形学课程，不接受反驳。
