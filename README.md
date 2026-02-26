@@ -2,16 +2,16 @@
 - hw1：**旋转矩阵**和**透视投影矩阵**。
 - hw2：**光栅化**和 **Z-Buffer** 算法。
 
-<img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="335" height="340">
+<img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="234" height="238">
 
 - hw3：**图形流水线**、**着色器**、**纹理映射**、**局部光照模型（Blinn-Phong）等**
 
 <p align="center">
-  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_bump.png" width="200" height="200">
-  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_displacement.png" width="200" height="200">
-  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_normal.png" width="200" height="200">
-  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_phong.png" width="200" height="200">
-  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_texmappedwithphong.png" width="200" height="200">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_bump.png" width="190" height="190">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_displacement.png" width="190" height="190">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_normal.png" width="190" height="190">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_phong.png" width="190" height="190">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_texmappedwithphong.png" width="190" height="190">
 </p>
 
 # 关于
