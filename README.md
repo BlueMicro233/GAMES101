@@ -16,7 +16,8 @@
 - hw2：**光栅化**和 **Z-Buffer** 算法。
   - Lecture 05 Rasterization 1 (Triangles)
   - Lecture 06 Rasterization 2 (Antialiasing and Z-Buffering)
-  - <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="234" height="238">
+  - 
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="234" height="238">
 
 - hw3：**图形流水线**、**着色器**、**纹理映射**、**局部光照模型（Blinn-Phong）等**
   - Lecture 07 Shading 1 (Illumination, Shading and  Graphics Pipeline)
