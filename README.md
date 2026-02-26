@@ -4,7 +4,7 @@
 > [!NOTE]
 > GAMES101 的课程作业在对应标题内容的下一节课放出，并且在下一节课通常会有重要知识补充。
 
-> 例如 hw3 需要的法线计算实际上是在 Lecture 10 Geometry 1 (Introduction) 的前半部分介绍的，而不是在 Lecture 09 Shading 3 (Texture Mapping Cont.)。
+> 例如 hw3 需要的法线计算实际上是在 Lecture 10 Geometry 1 (Introduction) 的前半部分介绍的，而不是在 Lecture 09 Shading 3 (Texture Mapping Cont.) 的部分。
 
 各作业对应课程内容为：
 
