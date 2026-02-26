@@ -13,6 +13,12 @@
   - Lecture 02 Review of Linear Algebra
   - Lecture 03 Transformation
   - Lecture 04 Transformation Cont.
+ 
+ <p align="center">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw1/images/output1.png" width="234" height="238">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw1/images/output2.png" width="234" height="238">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw1/images/output3.png" width="234" height="238">
+</p>
     
 - hw2：**光栅化**和 **Z-Buffer** 算法。
   - Lecture 05 Rasterization 1 (Triangles)
