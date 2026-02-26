@@ -6,8 +6,6 @@
 
 > 例如 hw3 需要的法线计算实际上是在 Lecture 10 Geometry 1 (Introduction) 的前半部分介绍的，而不是在 Lecture 09 Shading 3 (Texture Mapping Cont.) 的部分。
 
-各作业对应课程内容为：
-
 - hw1：**旋转矩阵**和**透视投影矩阵**。
   
   - Lecture 01 Overview of Computer Graphics
