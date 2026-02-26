@@ -6,11 +6,13 @@
 
 - hw3：**图形流水线**、**着色器**、**纹理映射**、**局部光照模型（Blinn-Phong）等**
 
-<img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_bump.png" width="200" height="200">
-<img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_displacement.png" width="200" height="200">
-<img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_normal.png" width="200" height="200">
-<img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_phong.png" width="200" height="200">
-<img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_texmappedwithphong.png" width="200" height="200">
+<p align="center">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_bump.png" width="200" height="200">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_displacement.png" width="200" height="200">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_normal.png" width="200" height="200">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_phong.png" width="200" height="200">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_texmappedwithphong.png" width="200" height="200">
+</p>
 
 # 关于
 GAMES101 是最好的中文图形学课程，不接受反驳。
