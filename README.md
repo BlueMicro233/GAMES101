@@ -40,6 +40,7 @@
 
 - hw5：**递归式光线追踪**：光线方程 $r(t) = \mathbf{o} + t \mathbf{d}$、光线-三角形求交（Moller-Trumbore 算法）
   - Lecture 13 Ray Tracing 1
+
 <p align="center">
   <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw5/image/binary.png" width="640" height="480">
 </p>
