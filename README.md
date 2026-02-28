@@ -26,7 +26,7 @@
   <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="234" height="238">
 
 - hw3：**图形流水线**、**着色器**、**纹理映射**、**局部光照模型（Blinn-Phong）等**
-  - Lecture 07 Shading 1 (Illumination, Shading and  Graphics Pipeline)
+  - Lecture 07 Shading 1 (Illumination, Shading and Graphics Pipeline)
   - Lecture 08 Shading 2 (Shading, Pipeline and Texture Mapping)
   - Lecture 09 Shading 3 (Texture Mapping Cont.)
 
@@ -36,6 +36,12 @@
   <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_texmappedwithphong.png" width="230" height="230">
   <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_bump.png" width="230" height="230">
   <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_displacement.png" width="230" height="230">
+</p>
+
+- hw5：**递归式光线追踪**：光线方程 $r(t) = \mathbf{o} + t \mathbf{d}$、光线-三角形求交（Moller-Trumbore 算法）
+  - Lecture 13 Ray Tracing 1
+<p align="center">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw5/image/binary.png" width="640" height="480">
 </p>
 
 # 关于
