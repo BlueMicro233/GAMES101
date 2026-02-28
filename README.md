@@ -38,7 +38,7 @@
   <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw3/images/output_displacement.png" width="230" height="230">
 </p>
 
-- hw5：**递归式光线追踪** - **光线方程 $r(t) = \vec{o} + t \vec{d}$ **、**成像平面上各像素的光线**、**光线-三角形求交**算法（Moller-Trumbore 算法）
+- hw5：**递归式光线追踪** - **光线方程** $r(t) = \vec{o} + t \vec{d}$、**成像平面上各像素的光线**、**光线-三角形求交**算法（Moller-Trumbore 算法）
 
   - Lecture 13 Ray Tracing 1
 
