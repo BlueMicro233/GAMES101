@@ -4,15 +4,20 @@
 > [!NOTE]
 > GAMES101 的课程作业在对应标题内容的下一节课放出，并且在下一节课通常会有重要知识补充。
 
-> 例如 hw3 需要的法线计算实际上是在 Lecture 10 Geometry 1 (Introduction) 的前半部分介绍的，而不是在 Lecture 09 Shading 3 (Texture Mapping Cont.)。
-
-各作业对应课程内容为：
+> 例如 hw3 需要的法线计算实际上是在 Lecture 10 Geometry 1 (Introduction) 的前半部分介绍的，而不是在 Lecture 09 Shading 3 (Texture Mapping Cont.) 的部分。
 
 - hw1：**旋转矩阵**和**透视投影矩阵**。
+  
   - Lecture 01 Overview of Computer Graphics
   - Lecture 02 Review of Linear Algebra
   - Lecture 03 Transformation
   - Lecture 04 Transformation Cont.
+ 
+<p align="center">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw1/images/output1.png" width="234" height="238">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw1/images/output2.png" width="234" height="238">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw1/images/output3.png" width="234" height="238">
+</p>
     
 - hw2：**光栅化**和 **Z-Buffer** 算法。
   - Lecture 05 Rasterization 1 (Triangles)
