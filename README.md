@@ -36,7 +36,7 @@ GAMES101 是最好的中文图形学课程，不接受反驳。学习这门课�
   - Lecture 06 Rasterization 2 (Antialiasing and Z-Buffering)
 
 <p align="center">
-  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="234" height="238">
+  <img src="https://github.com/BlueMicro233/GAMES101/blob/main/hw2/output.png" width="351" height="357">
 </p>
 
 - hw3：**图形流水线**、**着色器**、**纹理映射**、**局部光照模型（Blinn-Phong）等**
